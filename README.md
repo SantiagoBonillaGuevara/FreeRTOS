@@ -1,5 +1,7 @@
 # FreeRTOS – Conceptos y Ejemplos
 
+## Juan José Rodríguez, Wilson Santiago Bonilla, María Fernanda Tamayo
+
 ## 1. Ejecutar tareas con la misma función pero distintos parámetros
 
 En FreeRTOS todas las tareas reciben un `void *pvParameters`. Puedes reutilizar la misma función pasando diferentes parámetros.
