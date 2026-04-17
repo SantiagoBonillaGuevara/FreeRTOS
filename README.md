@@ -312,3 +312,6 @@ Es el recurso compartido donde:
 
 ## 9. Diagrama de arquitectura
 <img width="295" height="716" alt="diagramaArquitectura" src="https://github.com/user-attachments/assets/a42ab1c5-ed75-4550-a0b5-62b1cf7dd897" />
+
+## 10. Diagrama de relación proyecto - laboratorio
+![Diagrama](src/diagrama.jpeg)
